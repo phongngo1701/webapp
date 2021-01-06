@@ -1,4 +1,4 @@
-  
+
 class Customer:
     def __init__(self, CustomerID=None, CustomerName=None, ContactName=None, Address=None, City=None, PostalCode=None, Country=None):
         self.CustomerID = CustomerID
