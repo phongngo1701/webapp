@@ -21,37 +21,37 @@
 ### Get all customer
 * Request
     * Method: GET
-    * Endpoint: /customer/all
+    * Endpoint: /user/all
     * Params: None
     * Body: None
 * Response: [Customer]
 ### Add a customer
 * Request
     * Method: POST
-    * Endpoint: /customer
+    * Endpoint: /user/insert
     * Body:
-        * customer_name: string
-        * contact_name: string
-        * address: string
-        * city: string
-        * postal_code: string
-        * country: string
+        * CustomerName: string
+        * ContactName: string
+        * Address: string
+        * City: string
+        * PostalCode: string
+        * Country: string
 * Response: Message
 ### Update a customer
 * Request:
     * Method: PUT
-    * Endpoint: /customer/:customer_id
+    * Endpoint: /user/update/:customer_id
     * Body:
-        * customer_name: string
-        * contact_name: string
-        * address: string
-        * city: string
-        * postal_code: string
-        * country: string
+        * CustomerName: string
+        * ContactName: string
+        * Address: string
+        * City: string
+        * PostalCode: string
+        * Country: string
 * Response: Message
 
 ### Delete a customer
 * Request:
     * Method: DELETE
-    * Endpoint: /customer/:customer_id
+    * Endpoint: /user/delete/:customer_id
 * Response: message
