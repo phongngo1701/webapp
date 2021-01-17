@@ -239,7 +239,7 @@
     * Method: DELETE
     * Endpoint: /order/delete/:od_id
     * Response: message
-    * orther detail
+## orther detail
 ### Get all orther detail
 * Request:
    * Method: GET
