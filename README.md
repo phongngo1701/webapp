@@ -64,7 +64,7 @@
     OrderID :int
     ProductID: int
     Quantity :string
-);
+
 # API
 ## Customer
 ### Get all customer
