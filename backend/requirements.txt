@@ -1,3 +1,0 @@
-Flask
-psycopg2
-Flask_Cors==3.0.8
