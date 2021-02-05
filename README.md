@@ -1,8 +1,8 @@
 # webappnorthwind
 # Nhóm 4
-# Lê Hà Quang
-# Nguyễn Thị Yến
-# Hồ Văn Nhật
+# Ngô Quốc Phong
+# Lê Mai Tú
+# Nguyễn Huy Hoàng
 
 # Câu lệnh sử dụng
 
